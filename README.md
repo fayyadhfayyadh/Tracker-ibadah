@@ -1,6 +1,6 @@
 # Ibadah Tracker
 
-- Ibadah Tracker adalah aplikasi mobile yang dirancang untuk membantu pengguna mengelola jadwal ibadah harian dengan mudah dan teratur. Aplikasi ini dilengkapi dengan berbagai fitur untuk mendukung kelancaran pelaksanaan ibadah, seperti:
+#### Ibadah Tracker adalah aplikasi mobile yang dirancang untuk membantu pengguna mengelola jadwal ibadah harian dengan mudah dan teratur. Aplikasi ini dilengkapi dengan berbagai fitur untuk mendukung kelancaran pelaksanaan ibadah, seperti:
 
 - Menambah, Mengubah, dan Menghapus Jadwal Ibadah: Pengguna dapat menambahkan, mengedit, dan menghapus jadwal ibadah sesuai kebutuhan.
 
