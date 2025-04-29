@@ -1,50 +1,16 @@
-# Welcome to your Expo app 👋
+# Ibadah Tracker
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+- Ibadah Tracker adalah aplikasi mobile yang dirancang untuk membantu pengguna mengelola jadwal ibadah harian dengan mudah dan teratur. Aplikasi ini dilengkapi dengan berbagai fitur untuk mendukung kelancaran pelaksanaan ibadah, seperti:
 
-## Get started
+- Menambah, Mengubah, dan Menghapus Jadwal Ibadah: Pengguna dapat menambahkan, mengedit, dan menghapus jadwal ibadah sesuai kebutuhan.
 
-1. Install dependencies
+- Checklist Ibadah yang Telah Dikerjakan: Fitur untuk mencentang ibadah yang sudah dilakukan, sehingga pengguna dapat melacak ibadah yang telah dikerjakan setiap hari.
 
-   ```bash
-   npm install
-   ```
+- Jam Digital: Menampilkan waktu saat ini secara real-time, memudahkan pengguna untuk mengetahui waktu sholat.
 
-2. Start the app
+- Peringatan Waktu Sholat: Memberikan notifikasi saat waktu sholat sudah tiba, sehingga pengguna tidak terlewatkan waktu ibadah.
 
-   ```bash
-    npx expo start
-   ```
+- Suara Azan: Memutar suara azan sebagai pengingat saat waktu sholat tiba, memberikan nuansa lebih religius dan membantu pengguna mendengar panggilan sholat.
 
-In the output, you'll find options to open the app in a
+Aplikasi ini bertujuan untuk membantu umat Muslim menjalankan ibadah secara tepat waktu dan lebih terorganisir.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
